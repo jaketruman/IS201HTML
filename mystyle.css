@@ -1,0 +1,169 @@
+
+hr:not([size]) {
+     height: 5px;
+     background-color: white;
+     color: white;
+      
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+h6, h1, h2, h3, h4, h5{
+    font-family: 'Times New Roman', Times, serif;
+}
+header{
+    color: lavender;
+    background-image: unset;
+}
+head{
+    background-color: thistle;
+    color: darkblue
+}
+
+div{
+   color: black;
+}
+h1{ 
+    color: black;
+}
+/*footer*/
+.booty{
+    background-color:#374785 ;
+    background-image: linear-gradient(#374785,#a8D0e6);
+    color: rgb(255, 255, 255);
+}
+.iframe{
+   size-adjust: 150%;
+    align-content: left;
+    padding-right: 5px;
+}
+footer{
+    position: static;
+    height: 700px;
+}
+.headform{
+    color: white;
+    font-size: 4rem; 
+    text-align:start; 
+}
+.headform1{
+    color: white;
+    font-size: 4rem;
+    text-align: left;
+}
+
+.backim{
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAADICAMAAAA9W+hXAAAAA1BMVEU3R4WktGCiAAAANElEQVR4nO3BMQEAAADCoPVP7WsIoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeAN1+AABVhDU2QAAAABJRU5ErkJggg==);
+}
+.tbc{ 
+    background-color:#F76C6C ;
+}
+.footy{
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    width: 700px;
+    padding-top:5px;
+    padding-bottom:10px;
+    
+}
+.white{ 
+    color: white;
+}
+.bcol{
+    background-color:#374785 ;
+    box-shadow: -3px 3px 3px white;
+}
+
+#coolnav{
+    background-color: #F76C6C;
+    color: white;
+}
+.fcon{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color:#374785 ;
+}
+.fcon > div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+}
+.sim{
+    width: 400;
+    height: 600px;
+    padding: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    display: flex;
+    
+    align-items: center;
+}
+.res{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+
+}
+.resh{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+    padding-left: 50px;
+}
+.header{
+    padding-top: 50px;
+    color: white;
+    font-size: 4rem;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.top{
+    color: white;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.olist{
+    color: white
+    font-size: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.indent {
+    list-style-type: none;
+    margin: 0px;
+    left-padding: 10px;
+    font-size: 35px;
+  }
+  .indent1 {
+    list-style-type:disc;
+    margin: 0px;
+    left-padding: 10px;
+    font-size: 25px;
+  }
+  .footies{
+      color: white;
+      text-align: center;
+      font-size: 25px;
+      font-family: 'Times New Roman', Times, serif;
+  }
+  a:link {
+    color: rgb(0, 26, 255);
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: rgb(255, 217, 0);
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: rgb(238, 234, 234);
+    text-decoration: underline;
+   
+  }
+  .ye{
+      align-items: center;
+  }
+  
